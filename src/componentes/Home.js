@@ -29,7 +29,7 @@ const Home = () => {
    <main className='flex-1'>
    <div className='flex justify-center md:w-2/3 lg:w-2/5'>
    <h1 className="inline p-8 bg-gradient-to-r from-indigo-200 via-violet-700 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-      Proyecto G12 
+      Ecommerceback G12 
     </h1>
     <Link
            className="block text-center my-5 text-gray-100"
